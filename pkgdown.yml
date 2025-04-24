@@ -3,4 +3,7 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   practiceRegex-vignette: practiceRegex-vignette.html
-last_built: 2025-04-24T19:37Z
+last_built: 2025-04-24T19:57Z
+urls:
+  reference: https://dannypirouz.github.io/practiceRegex/reference
+  article: https://dannypirouz.github.io/practiceRegex/articles

@@ -1,12 +1,12 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url><loc>/404.html</loc></url>
-<url><loc>/LICENSE-text.html</loc></url>
-<url><loc>/LICENSE.html</loc></url>
-<url><loc>/articles/index.html</loc></url>
-<url><loc>/articles/practiceRegex-vignette.html</loc></url>
-<url><loc>/authors.html</loc></url>
-<url><loc>/index.html</loc></url>
-<url><loc>/reference/index.html</loc></url>
-<url><loc>/reference/strsplit1.html</loc></url>
+<url><loc>https://dannypirouz.github.io/practiceRegex/404.html</loc></url>
+<url><loc>https://dannypirouz.github.io/practiceRegex/LICENSE-text.html</loc></url>
+<url><loc>https://dannypirouz.github.io/practiceRegex/LICENSE.html</loc></url>
+<url><loc>https://dannypirouz.github.io/practiceRegex/articles/index.html</loc></url>
+<url><loc>https://dannypirouz.github.io/practiceRegex/articles/practiceRegex-vignette.html</loc></url>
+<url><loc>https://dannypirouz.github.io/practiceRegex/authors.html</loc></url>
+<url><loc>https://dannypirouz.github.io/practiceRegex/index.html</loc></url>
+<url><loc>https://dannypirouz.github.io/practiceRegex/reference/index.html</loc></url>
+<url><loc>https://dannypirouz.github.io/practiceRegex/reference/strsplit1.html</loc></url>
 </urlset>
 
